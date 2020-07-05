@@ -1,5 +1,5 @@
 numpy==1.18.4
-requests==2.18.4
+requests==2.20.0
 dlib==19.19.0
 dataclasses==0.7
 scipy==1.4.1
